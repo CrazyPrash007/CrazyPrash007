@@ -196,26 +196,6 @@ const prashant = {
 
 <br/>
 
-## 📊 Battle Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CrazyPrash007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPrash007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="175" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=CrazyPrash007&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazyPrash007&theme=tokyo-night&hide_border=true&area=true&radius=8&cache_seconds=86400" width="100%" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
 ## 🐍 Eating My Contributions
 
 <div align="center">
