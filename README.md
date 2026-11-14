@@ -1,123 +1,210 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="./assets/header.svg" width="100%" alt="Prashant Kumar Sharma" />
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
+<img src="./assets/header.svg" width="100%" alt="Prashant Kumar Sharma"/>
 
-  <!-- Dynamic Typing Subtitle -->
-  <a href="https://github.com/CrazyPrash007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Prashant+%F0%9F%91%8B;Software+Engineer+%26+Open-Source+Builder;Exploring+LLMs+%26+Transformer+Architectures;Building+Scalable+Web+Apps+%26+Intelligent+Systems" alt="Typing SVG" />
-  </a>
+<!-- ─── Animated Typing ─── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=52&lines=Hi%2C+I'm+Prashant+%F0%9F%91%8B;Software+Engineer+%26+Open-Source+Builder;Deep+Diving+into+LLMs+%26+Transformers;Building+Scalable+Web+Apps+%26+AI+Systems;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
 
-  <p align="center">
-    <a href="mailto:prashantkr.sharma07@gmail.com">
-      <img src="https://img.shields.io/badge/Email-prashantkr.sharma07%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/CrazyPrash007">
-      <img src="https://img.shields.io/badge/GitHub-CrazyPrash007-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=CrazyPrash007&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
-  </p>
+<br/>
+
+<!-- ─── Contact Badges ─── -->
+<a href="mailto:prashantkr.sharma07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-prashantkr.sharma07-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/CrazyPrash007">
+  <img src="https://img.shields.io/badge/GitHub-CrazyPrash007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=CrazyPrash007&label=Profile+Views&color=38bdf8&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-### 💫 About Me
+<!-- ════════════════════════════ ABOUT ME ═══════════════════════════════ -->
+
+## 💫 About Me
 
 ```javascript
 const prashant = {
-  pronouns: "He/Him",
-  coreLanguages: ["Python", "C++", "TypeScript", "JavaScript"],
-  domains: ["Large Language Models", "Full-Stack Development", "Simulation & Robotics"],
-  currentExploration: "Transformer Architectures & Attention Mechanisms",
-  motto: "Transforming complex challenges into elegant, efficient software."
+  name       : "Prashant Kumar Sharma",
+  pronouns   : "He/Him",
+  languages  : ["Python", "C++", "TypeScript", "JavaScript", "Bash"],
+  domains    : ["Large Language Models", "Full-Stack Engineering", "Robotics & Simulation"],
+  exploring  : "Transformer internals · Attention mechanisms · MoE architectures",
+  building   : "Intelligent systems that are fast, clean, and production-ready",
+  motto      : "Transforming complex ideas into elegant, efficient software 🚀"
 };
 ```
 
-- 🔭 **Current Focus:** Deep diving into Transformer internals, LLM architectures, and high-performance computing.
-- 💡 **Engineering Passion:** Designing scalable backends, clean APIs, and robust full-stack applications.
-- 🤝 **Collaborations:** Open to collaborating on open-source initiatives, AI/ML research, and challenging software projects.
-- 💬 **Ask Me About:** Python, C++, Django, NLP/Transformers, and software design patterns.
-- 📬 **Get In Touch:** [prashantkr.sharma07@gmail.com](mailto:prashantkr.sharma07@gmail.com)
+<table>
+<tr>
+<td>
 
----
+🔭 &nbsp;**Diving deep into** Transformer internals, LLM fine-tuning & high-performance computing  
+💡 &nbsp;**Engineering passion** for scalable backends, clean APIs & distributed systems  
+🤝 &nbsp;**Open to collaborate** on AI/ML research, open-source & challenging engineering projects  
+🏫 &nbsp;**Background** in Inter-IIT tech, drone simulation (ArduPilot + Gazebo) & telemedicine platforms  
+💬 &nbsp;**Ask me about** Python · C++ · Django · Transformers · System design  
+📬 &nbsp;**Reach me at** [prashantkr.sharma07@gmail.com](mailto:prashantkr.sharma07@gmail.com)
 
-### 🛠️ Tech Stack
+</td>
+<td align="center">
+
+```
+📊 Quick Facts
+━━━━━━━━━━━━━━━━━━━━
+⚡ Languages   : 5+
+🔧 Frameworks  : 7+
+🌍 Projects    : 10+
+☕ Coffee/day  : ∞
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════════ TECH STACK ══════════════════════════════ -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <a href="#"><img src="https://skillicons.dev/icons?i=py,cpp,ts,js,bash,latex" alt="Languages" /></a> |
-| **AI & Machine Learning** | <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" alt="AI & ML" /></a> |
-| **Frameworks & Web** | <a href="#"><img src="https://skillicons.dev/icons?i=django,flask,nodejs,html,css" alt="Web & Frameworks" /></a> |
-| **Tools & Environments** | <a href="#"><img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" alt="Tools" /></a> |
+### Languages
+<img src="https://skillicons.dev/icons?i=py,cpp,ts,js,bash" height="45" alt="Languages"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="22"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" height="22"/>
+
+---
+
+### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45" alt="AI/ML"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black" height="22"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="22"/>
+
+---
+
+### Frameworks & Web
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,fastapi,html,css" height="45" alt="Frameworks"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="22"/>
+
+---
+
+### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" height="45" alt="Tools"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="22"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="22"/>
 
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════ FEATURED WORK ════════════════════════════ -->
+
+## 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+| 🏗️ Project | 📝 Description | 🔧 Stack |
+| :--- | :--- | :--- |
+| [**LLM Exercises**](https://github.com/CrazyPrash007/CrazyPrash007/blob/main/1_llm/part1_EXERCISES.ipynb) | Hands-on Transformer & LLM implementation from M2L Summer School | `Python` `PyTorch` `Colab` |
+| [**prepAThon**](https://github.com/CrazyPrash007/prepAThon) | Inter-IIT preparation platform with scalable backend | `Flask` `JavaScript` `REST API` |
+| [**TelMedSphere**](https://github.com/CrazyPrash007/TelMedSphere) | Open-source telemedicine web application | `Django` `TypeScript` |
+| [**Gazebo Drone Sim**](https://github.com/CrazyPrash007/Gazebo-Drone-Simulation-in-Ardupilot) | Autonomous drone simulation in ArduPilot & Gazebo | `C++` `ROS` `ArduPilot` |
+| [**WebOS**](https://github.com/CrazyPrash007/WebOS) | Browser-based OS experience with CI/CD pipelines | `JavaScript` `GitHub Actions` |
+
 </div>
 
----
+<br/>
 
-### 📊 GitHub Activity & Analytics
+<!-- ════════════════════════════ GITHUB STATS ════════════════════════════ -->
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrazyPrash007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPrash007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
+<img src="https://github-readme-stats.vercel.app/api?username=CrazyPrash007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420" height="175" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPrash007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="175" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=CrazyPrash007&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=750" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazyPrash007&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Activity Graph"/>
+
+<br/>
+
+<details>
+  <summary><b>🏆 GitHub Trophies &nbsp;—&nbsp; click to expand</b></summary>
   <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CrazyPrash007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+</details>
 
-  <img src="https://streak-stats.demolab.com/?user=CrazyPrash007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <details>
-    <summary><b>🏆 Click to expand GitHub Trophies</b></summary>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=CrazyPrash007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </details>
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:prashantkr.sharma07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/CrazyPrash007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════ SNAKE ════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <sub>Crafted with passion • © Prashant Kumar Sharma</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/CrazyPrash007/CrazyPrash007/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrazyPrash007/CrazyPrash007/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/CrazyPrash007/CrazyPrash007/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ CONNECT ══════════════════════════════════ -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:prashantkr.sharma07@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/CrazyPrash007" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<sub>⚡ Crafted with passion &nbsp;•&nbsp; © Prashant Kumar Sharma &nbsp;•&nbsp; <i>Always building, always learning.</i></sub>
+
 </div>
