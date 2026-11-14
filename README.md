@@ -35,12 +35,12 @@
 ║  🛡️  Armor  : Django · FastAPI · Docker · Distributed Systems           ║
 ║  🌍  Guild  : Open Source · Inter-IIT · M2L Summer School               ║
 ║                                                                          ║
-║  STATS           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                ║
-║  ⚡ AI/ML        ████████████████████████░░░░░░  80 / 100               ║
-║  🔧 Backend      █████████████████████░░░░░░░░░  70 / 100               ║
-║  🤖 LLMs & RAG   ███████████████████████████░░░  90 / 100               ║
-║  🛸 Robotics     ████████████████░░░░░░░░░░░░░░  55 / 100               ║
-║  🎨 Frontend     ████████████░░░░░░░░░░░░░░░░░░  40 / 100               ║
+║  SKILLS                                                                  ║
+║  ⚡ AI/ML        ████████████████████████░░░░░░                          ║
+║  🔧 Backend      █████████████████████░░░░░░░░░                          ║
+║  🤖 LLMs & RAG   ███████████████████████████░░░                          ║
+║  🛸 Robotics     ████████████████░░░░░░░░░░░░░░                          ║
+║  🎨 Frontend     ████████████░░░░░░░░░░░░░░░░░░                          ║
 ║                                                                          ║
 ║  🏆 Achievements Unlocked                                               ║
 ║     🥇 Built production RAG system from scratch                         ║
