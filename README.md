@@ -32,8 +32,8 @@
 ║  🌍  Guild  : Open Source · Inter-IIT · M2L Summer School               ║
 ║                                                                          ║
 ║  🏆 Achievements Unlocked                                               ║
-║     🥇 Built production RAG system from scratch                         ║
-║     🥇 Shipped B2B SaaS platform end-to-end                             ║
+║     🥇 Built production RAG travel chatbot from scratch                 ║
+║     🥇 Shipped B2B accounting platform end-to-end                       ║
 ║     🥇 Implemented Transformer from scratch (M2L School)                ║
 ║     🥇 Autonomous drone simulation with ArduPilot                       ║
 ║     🥇 Inter-IIT participant & open-source contributor                  ║
@@ -89,13 +89,14 @@ const prashant = {
 ## 🚀 Main Quests (Featured Projects)
 
 <details open>
-<summary><b>🏆 QUEST #1 · B2B SaaS Platform · SHIPPED ✅</b></summary>
+<summary><b>🏆 QUEST #1 · B2B Accounting Platform · SHIPPED ✅</b></summary>
 <br/>
 
-> **Enterprise B2B platform** connecting businesses with streamlined workflows, intelligent automation, and scalable REST APIs. Built for high-availability production with clean multi-tenant architecture.
+> **Enterprise B2B accounting platform** built for businesses to manage finances, automate billing workflows, and get real-time insights. Clean multi-tenant architecture with scalable REST APIs.
 
 | | |
 |---|---|
+| **Repo** | [CrazyPrash007/b2b-accounting](https://github.com/CrazyPrash007/b2b-accounting) |
 | **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **XP Gained** | Multi-tenant architecture · REST API design · Business logic modelling · CI/CD pipelines |
 | **Status** | 🟢 Production |
@@ -105,13 +106,14 @@ const prashant = {
 <br/>
 
 <details open>
-<summary><b>🏆 QUEST #2 · RAG-Powered AI Travel Bot · SHIPPED ✅</b></summary>
+<summary><b>🏆 QUEST #2 · RAG-Powered AI Travel Chatbot · SHIPPED ✅</b></summary>
 <br/>
 
 > **Intelligent travel assistant** using Retrieval-Augmented Generation (RAG) to deliver personalised, real-time travel recommendations. Ingests live travel data into a vector store, retrieves relevant context, and generates grounded responses via LLM.
 
 | | |
 |---|---|
+| **Repo** | [CrazyPrash007/Travel-Chatbot](https://github.com/CrazyPrash007/Travel-Chatbot) |
 | **Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) |
 | **XP Gained** | RAG architecture · Vector databases · Embedding pipelines · LLM prompt engineering |
 | **Status** | 🟢 Production |
@@ -126,11 +128,13 @@ const prashant = {
 
 | Quest | Description | Stack | Status |
 | :--- | :--- | :--- | :---: |
+| [**SkillMingle**](https://github.com/CrazyPrash007/SkillMingle) | Freelancer-employer matching platform | `JavaScript` | ✅ |
 | [**LLM Exercises**](https://github.com/CrazyPrash007/CrazyPrash007/blob/main/1_llm/part1_EXERCISES.ipynb) | Transformer & attention implemented from scratch at M2L Summer School | `Python` `PyTorch` | ✅ |
 | [**prepAThon**](https://github.com/CrazyPrash007/prepAThon) | Inter-IIT prep platform with scalable Flask backend | `Flask` `JavaScript` | ✅ |
 | [**TelMedSphere**](https://github.com/CrazyPrash007/TelMedSphere) | Open-source telemedicine web app | `Django` `TypeScript` | ✅ |
 | [**Gazebo Drone Sim**](https://github.com/CrazyPrash007/Gazebo-Drone-Simulation-in-Ardupilot) | Autonomous drone in ArduPilot & Gazebo | `C++` `ROS` | ✅ |
-| [**WebOS**](https://github.com/CrazyPrash007/WebOS) | Browser-based OS with GitHub Actions CI/CD | `JavaScript` | ✅ |
+| [**WebOS**](https://github.com/CrazyPrash007/WebOS) | Browser-based OS with GitHub Actions CI/CD | `TypeScript` | ✅ |
+| [**EKF Ground Bot**](https://github.com/CrazyPrash007/Extended-Kalman-Filter-on-Ground-Bot) | Extended Kalman Filter on a ground robot | `Python` | ✅ |
 
 </details>
 
@@ -196,25 +200,17 @@ const prashant = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CrazyPrash007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CrazyPrash007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" height="175" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPrash007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="175" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyPrash007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="175" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=CrazyPrash007&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=720" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=CrazyPrash007&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazyPrash007&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Activity Graph"/>
-
-<br/>
-
-<details>
-  <summary><b>🏆 Trophy Cabinet - click to open</b></summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=CrazyPrash007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-</details>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazyPrash007&theme=tokyo-night&hide_border=true&area=true&radius=8&cache_seconds=86400" width="100%" alt="Activity Graph"/>
 
 </div>
 
