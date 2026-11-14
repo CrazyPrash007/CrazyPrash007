@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,23,42&height=180&section=header&text=Prashant%20Kumar%20Sharma&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20%26%20LLM%20Enthusiast&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="./assets/header.svg" width="100%" alt="Prashant Kumar Sharma" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/CrazyPrash007">
