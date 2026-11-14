@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ══════════════════════════════ HEADER ════════════════════════════════ -->
-<img src="./assets/header.svg" width="100%" alt="Prashant Kumar Sharma — AI Engineer"/>
+<img src="./assets/header.svg" width="100%" alt="Prashant Kumar Sharma"/>
 
-<!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=52&lines=Hi%2C+I'm+Prashant+%F0%9F%91%8B+%7C+AI+Engineer;Building+RAG+Pipelines+%26+LLM+Systems;Shipping+B2B+SaaS+%26+Enterprise+Backends;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
@@ -23,8 +21,6 @@
 
 <br/>
 
-<!-- ══════════════════════════ 🎮 CHARACTER SHEET ════════════════════════ -->
-
 ## 🎮 Character Sheet
 
 ```
@@ -34,13 +30,6 @@
 ║  ⚔️  Weapon : Python · C++ · LLMs · RAG Pipelines                      ║
 ║  🛡️  Armor  : Django · FastAPI · Docker · Distributed Systems           ║
 ║  🌍  Guild  : Open Source · Inter-IIT · M2L Summer School               ║
-║                                                                          ║
-║  SKILLS                                                                  ║
-║  ⚡ AI/ML        ████████████████████████░░░░░░                          ║
-║  🔧 Backend      █████████████████████░░░░░░░░░                          ║
-║  🤖 LLMs & RAG   ███████████████████████████░░░                          ║
-║  🛸 Robotics     ████████████████░░░░░░░░░░░░░░                          ║
-║  🎨 Frontend     ████████████░░░░░░░░░░░░░░░░░░                          ║
 ║                                                                          ║
 ║  🏆 Achievements Unlocked                                               ║
 ║     🥇 Built production RAG system from scratch                         ║
@@ -53,18 +42,16 @@
 
 <br/>
 
-<!-- ══════════════════════════════ 💫 ABOUT ══════════════════════════════ -->
-
 ## 💫 About Me
 
 ```javascript
 const prashant = {
-  class      : "AI Engineer + Full-Stack Developer",
-  weapons    : ["Python", "C++", "TypeScript", "LangChain", "RAG Pipelines"],
-  domains    : ["LLM Systems", "B2B SaaS", "Robotics & Simulation"],
+  class       : "AI Engineer + Full-Stack Developer",
+  weapons     : ["Python", "C++", "TypeScript", "LangChain", "RAG Pipelines"],
+  domains     : ["LLM Systems", "B2B SaaS", "Robotics & Simulation"],
   currentQuest: "Building production-grade RAG & agentic AI systems",
-  sideQuests : ["Transformer internals", "MoE architectures", "Drone simulation"],
-  motto      : "Ship fast. Build smart. Never stop learning. 🚀"
+  sideQuests  : ["Transformer internals", "MoE architectures", "Drone simulation"],
+  motto       : "Ship fast. Build smart. Never stop learning. 🚀"
 };
 ```
 
@@ -72,26 +59,25 @@ const prashant = {
 <tr>
 <td>
 
-🔭 &nbsp;**Current Quest** — Production RAG systems, LLM fine-tuning & B2B SaaS  
-💡 &nbsp;**Power** — Scalable backends, clean APIs & distributed AI pipelines  
-🤝 &nbsp;**Alliance** — Open to AI/ML research & challenging engineering quests  
-🏫 &nbsp;**Origin Story** — Inter-IIT, M2L Summer School, ArduPilot drones, telemedicine  
-💬 &nbsp;**Ask Me** — Python · C++ · LangChain · RAG · Django · System Design  
-📬 &nbsp;**Signal** — [prashantkr.sharma07@gmail.com](mailto:prashantkr.sharma07@gmail.com)
+🔭 &nbsp;**Current Quest** - Production RAG systems, LLM fine-tuning & B2B SaaS  
+💡 &nbsp;**Power** - Scalable backends, clean APIs & distributed AI pipelines  
+🤝 &nbsp;**Alliance** - Open to AI/ML research & challenging engineering quests  
+🏫 &nbsp;**Origin Story** - Inter-IIT, M2L Summer School, ArduPilot drones, telemedicine  
+💬 &nbsp;**Ask Me** - Python · C++ · LangChain · RAG · Django · System Design  
+📬 &nbsp;**Signal** - [prashantkr.sharma07@gmail.com](mailto:prashantkr.sharma07@gmail.com)
 
 </td>
 <td align="center">
 
 ```
 🎮 Player Card
-━━━━━━━━━━━━━━━━━━━━━━━
+=======================
   Level    :  42 🔥
   Class    :  AI Architect
-  XP       :  ██████████░░ 78%
   Projects :  10+  ⭐
-  Coffees  :  ∞    ☕
+  Coffees  :  Infinite  ☕
   Open Src :  YES  🌍
-━━━━━━━━━━━━━━━━━━━━━━━
+=======================
 ```
 
 </td>
@@ -100,13 +86,10 @@ const prashant = {
 
 <br/>
 
-<!-- ══════════════════════════ 🚀 MAIN QUESTS ════════════════════════════ -->
-
 ## 🚀 Main Quests (Featured Projects)
 
-<!-- ─── Quest 1: B2B Platform ─── -->
 <details open>
-<summary><b>🏆 QUEST #1 &nbsp;·&nbsp; B2B SaaS Platform &nbsp;—&nbsp; <i>SHIPPED ✅</i></b></summary>
+<summary><b>🏆 QUEST #1 · B2B SaaS Platform · SHIPPED ✅</b></summary>
 <br/>
 
 > **Enterprise B2B platform** connecting businesses with streamlined workflows, intelligent automation, and scalable REST APIs. Built for high-availability production with clean multi-tenant architecture.
@@ -121,12 +104,11 @@ const prashant = {
 
 <br/>
 
-<!-- ─── Quest 2: RAG Travel Bot ─── -->
 <details open>
-<summary><b>🏆 QUEST #2 &nbsp;·&nbsp; RAG-Powered AI Travel Bot &nbsp;—&nbsp; <i>SHIPPED ✅</i></b></summary>
+<summary><b>🏆 QUEST #2 · RAG-Powered AI Travel Bot · SHIPPED ✅</b></summary>
 <br/>
 
-> **Intelligent travel assistant** using Retrieval-Augmented Generation (RAG) to deliver hyper-personalised, real-time travel recommendations. Ingests live travel data into a vector store, retrieves semantically relevant context, and generates grounded responses via LLM.
+> **Intelligent travel assistant** using Retrieval-Augmented Generation (RAG) to deliver personalised, real-time travel recommendations. Ingests live travel data into a vector store, retrieves relevant context, and generates grounded responses via LLM.
 
 | | |
 |---|---|
@@ -138,14 +120,13 @@ const prashant = {
 
 <br/>
 
-<!-- ─── Side Quests ─── -->
 <details>
-<summary><b>⚔️ Side Quests &nbsp;—&nbsp; click to reveal</b></summary>
+<summary><b>⚔️ Side Quests - click to reveal</b></summary>
 <br/>
 
-| ⚔️ Quest | 📜 Lore | 🛠 Stack | Status |
+| Quest | Description | Stack | Status |
 | :--- | :--- | :--- | :---: |
-| [**LLM Exercises**](https://github.com/CrazyPrash007/CrazyPrash007/blob/main/1_llm/part1_EXERCISES.ipynb) | Transformer & attention implemented from scratch — M2L Summer School | `Python` `PyTorch` | ✅ |
+| [**LLM Exercises**](https://github.com/CrazyPrash007/CrazyPrash007/blob/main/1_llm/part1_EXERCISES.ipynb) | Transformer & attention implemented from scratch at M2L Summer School | `Python` `PyTorch` | ✅ |
 | [**prepAThon**](https://github.com/CrazyPrash007/prepAThon) | Inter-IIT prep platform with scalable Flask backend | `Flask` `JavaScript` | ✅ |
 | [**TelMedSphere**](https://github.com/CrazyPrash007/TelMedSphere) | Open-source telemedicine web app | `Django` `TypeScript` | ✅ |
 | [**Gazebo Drone Sim**](https://github.com/CrazyPrash007/Gazebo-Drone-Simulation-in-Ardupilot) | Autonomous drone in ArduPilot & Gazebo | `C++` `ROS` | ✅ |
@@ -155,13 +136,11 @@ const prashant = {
 
 <br/>
 
-<!-- ══════════════════════════ 🛠️ SKILL TREE ════════════════════════════ -->
-
 ## 🌳 Skill Tree
 
 <div align="center">
 
-**⚡ Languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,bash" height="42" alt="Languages"/>
 
@@ -174,7 +153,7 @@ const prashant = {
 
 ---
 
-**🤖 AI · LLMs · RAG**
+**AI · LLMs · RAG**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="42" alt="AI/ML"/>
 
@@ -188,7 +167,7 @@ const prashant = {
 
 ---
 
-**🔧 Frameworks · Web**
+**Frameworks · Web**
 
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,html,css" height="42" alt="Frameworks"/>
 
@@ -199,7 +178,7 @@ const prashant = {
 
 ---
 
-**🛸 Tools · Infra · Cloud**
+**Tools · Infra**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postgres" height="42" alt="Tools"/>
 
@@ -212,8 +191,6 @@ const prashant = {
 </div>
 
 <br/>
-
-<!-- ════════════════════════════ 📊 BATTLE STATS ═══════════════════════════ -->
 
 ## 📊 Battle Stats
 
@@ -234,7 +211,7 @@ const prashant = {
 <br/>
 
 <details>
-  <summary><b>🏆 Trophy Cabinet &nbsp;—&nbsp; click to open</b></summary>
+  <summary><b>🏆 Trophy Cabinet - click to open</b></summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=CrazyPrash007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 </details>
@@ -242,8 +219,6 @@ const prashant = {
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════ 🐍 SNAKE ═════════════════════════════ -->
 
 ## 🐍 Eating My Contributions
 
@@ -256,8 +231,6 @@ const prashant = {
 </div>
 
 <br/>
-
-<!-- ════════════════════════════ 🌐 CONNECT ══════════════════════════════ -->
 
 ## 🌐 Find Me Online
 
@@ -276,7 +249,7 @@ const prashant = {
 <br/><br/>
 
 ```
-⚡ Prashant Kumar Sharma  |  AI Engineer  |  Open Source Builder
+Prashant Kumar Sharma  |  AI Engineer  |  Open Source Builder
 "Ship fast. Build smart. Never stop learning."
 ```
 
