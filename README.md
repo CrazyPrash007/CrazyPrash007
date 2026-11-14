@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Prashant Kumar Sharma"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=52&lines=Hi%2C+I'm+Prashant+%F0%9F%91%8B+%7C+AI+Engineer;Building+RAG+Pipelines+%26+LLM+Systems;Shipping+B2B+SaaS+%26+Enterprise+Backends;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+**AI Engineer · Full-Stack Developer · Open Source Builder**
 
 <br/>
 
